@@ -2,6 +2,14 @@
 
 A flight seat selection interface built with React (Vite) and Tailwind CSS. Users can pick passengers, assign seats on an interactive aircraft map with two layout configurations, select meals, and see real-time cost breakdowns.
 
+## Screenshots
+
+### 3-2 Configuration with Passenger & Meal Selection
+![3-2 Configuration](screenshots/screenshot-2-assigned.png)
+
+### 2-3-2 Twin-Aisle Layout Toggle
+![2-3-2 Configuration](screenshots/screenshot-3-layout-2-3-2.png)
+
 ## Setup
 
 ```bash
